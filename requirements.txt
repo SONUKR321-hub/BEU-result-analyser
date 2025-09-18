@@ -4,3 +4,6 @@ requests>=2.31.0
 beautifulsoup4>=4.12.2
 plotly>=5.20.0
 xhtml2pdf>=0.2.11
+aiohttp>=3.9.0
+lxml>=4.9.0
+asyncio
